@@ -1,0 +1,6 @@
+com\aetherwork\example\jersey2\exception\InvalidRequestExceptionMapper.class
+com\aetherwork\example\jersey2\exception\InvalidRequestException.class
+com\aetherwork\example\jersey2\SetApplication.class
+com\aetherwork\example\jersey2\SetCallHandler.class
+com\aetherwork\example\jersey2\api\SetResource.class
+com\aetherwork\example\jersey2\SetApplication$1.class
